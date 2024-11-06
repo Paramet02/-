@@ -5,7 +5,7 @@ import Personal from './components/Personal'
 import Hobby from './components/Hobby'
 import DreamJob from './components/DreamJob'
 import Languages from './components/Languages'
-import Cn from './components/Cn'
+
 import './App.css'
 
 function App() {
@@ -22,9 +22,6 @@ function App() {
             <Header />
             <LineArt />
             <Education />
-              <div className='contact'>
-                <Cn />
-              </div>
         </div>
       </div>
   );
