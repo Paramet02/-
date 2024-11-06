@@ -7,9 +7,9 @@ function Languages() {
         <h2>Programming Languages : </h2>
         <LineWhite />
         <p>
-        - Golang
+        - Golang 
         <br />
-        - C++
+        - C++ 
         <br />
         - HTML
         <br />

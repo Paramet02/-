@@ -5,7 +5,7 @@ import Personal from './components/Personal'
 import Hobby from './components/Hobby'
 import DreamJob from './components/DreamJob'
 import Languages from './components/Languages'
-import Contact from './components/contact'
+import Cn from './components/Cn'
 import './App.css'
 
 function App() {
@@ -23,7 +23,7 @@ function App() {
             <LineArt />
             <Education />
               <div className='contact'>
-                <Contact />
+                <Cn />
               </div>
         </div>
       </div>

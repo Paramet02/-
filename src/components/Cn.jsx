@@ -1,7 +1,6 @@
 import React from 'react'
-import Line from './line'
 
-function Contact() {
+function Cn() {
   return (
     <div style={{ fontFamily : "Ubuntu-Light" }} >
       <h2>Contact : </h2>
@@ -18,4 +17,4 @@ function Contact() {
   )
 }
 
-export default Contact
+export default Cn
