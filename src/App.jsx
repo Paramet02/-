@@ -1,8 +1,4 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import Header from './components/Header'
-import Line from './components/line'
 import LineArt from './components/LineArt'
 import Education from './components/Education'
 import Personal from './components/Personal'
