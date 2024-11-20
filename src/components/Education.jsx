@@ -1,5 +1,5 @@
 import React from 'react'
-import Line from './line'
+import Line from './Line'
 
 function Education() {
   return (
